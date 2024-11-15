@@ -1,5 +1,5 @@
 <div style="float: left; margin: 0.5rem; padding: 1rem 1rem 1rem 0;">
-    <img src="Edsger Dijkstra.png" alt="Fotografia de Edsger Dijkstra" style="width: 150px;">
+    <img src="Edsger Dijkstra.svg" alt="Fotografia de Edsger Dijkstra" style="width: 150px;">
 </div>
 
 # Edsger Wybe Dijkstra

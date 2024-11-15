@@ -1,5 +1,5 @@
 <div style="float: left; margin: 0.5rem; padding: 1rem 1rem 1rem 0;">
-    <img src="Mary Keller.png" alt="Fotografia de Mary Keller" style="width: 150px;">
+    <img src="Mary Keller.svg" alt="Fotografia de Mary Keller" style="width: 150px;">
 </div>
 
 # Mary Kenneth Keller

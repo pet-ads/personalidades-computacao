@@ -1,5 +1,5 @@
 <div style="float: left; margin: 0.5rem; padding: 1rem 1rem 1rem 0;">
-    <img src="Alan Turing.png" alt="Fotografia de Alan Turing" style="width: 150px;">
+    <img src="Alan Turing.svg" alt="Fotografia de Alan Turing" style="width: 150px;">
 </div>
 
 # Alan Turing

@@ -1,5 +1,5 @@
 <div style="float: left; margin: 0.5rem; padding: 1rem 1rem 1rem 0;">
-    <img src="Grace Hopper.png" alt="Fotografia de Grace Hopper" style="width: 150px;">
+    <img src="Grace Hopper.svg" alt="Fotografia de Grace Hopper" style="width: 150px;">
 </div>
 
 # Grace Murray Hopper

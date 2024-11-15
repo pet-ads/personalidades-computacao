@@ -1,5 +1,5 @@
 <div style="float: left; margin: 0.5rem; padding: 1rem 1rem 1rem 0;">
-    <img src="Ada Lovelace.png" alt="Fotografia de Ada Lovelace" style="width: 150px;">
+    <img src="Ada Lovelace.svg" alt="Fotografia de Ada Lovelace" style="width: 150px;">
 </div>
 
 # Ada Lovelace

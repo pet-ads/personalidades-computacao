@@ -1,0 +1,5 @@
+git add personalityBoards/Ada Lovelace/Ada Lovelace.svg personalityBoards/Alan Turing/Alan Turing.svg personalityBoards/Edsger Dijkstra/Edsger Dijkstra.svg personalityBoards/Grace Hopper/Grace Hopper.svg personalityBoards/Mary Keller/Mary Keller.svg 
+git add 
+git add 
+git add 
+git add 
